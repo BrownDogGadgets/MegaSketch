@@ -1,5 +1,7 @@
 # Desk Sketch
 
+![Desk Sketch](Desk1.jpg)
+
 Based on open source CoreXY designs, we had hoped to turn this into a simple DIY desktop plotter.  
 
 Using two Stepper Motors, an Adafruit Motor Shield V1, an Arduino Uno, and a Servo we created a functional design.  When combined with the Makelangelo Software the system was extreamly simple and user friendly.  The laser cut wooden body uses 1/4th inch plywood. Inexpensive rails can be easily worked into this setup.
@@ -8,3 +10,5 @@ However, we were never completely pleased with the pen raising and lowering syst
 
 Maybe someone can redesign the pen lowering and raising system.  Otherwise we hope that this serves as a good example of a laser cut Core XY setup.
 
+![Desk Sketch](Desk2.jpg)
+![Desk Sketch](Desk3.jpg)
